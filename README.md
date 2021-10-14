@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.makeschool.com">
-      <img alt="Make School Logo" src="./Web/logo-icononly.svg" height="110">
-  </a>
-</p>
-
 # WEB 1.1 (Web Architecture)
 
 <span class="refresh-instructions">This syllabus is a living document! Hold down the `SHIFT` key and press `Refresh` to get the latest version.</span>
