@@ -86,9 +86,9 @@ This course has been broken down into 5 modules for students to approach at thei
 
 ## Schedule
 
-**Course Dates:** Monday, March 29 – Wednesday, May 12, 2021 (7 weeks)
+**Course Dates:** October 18 – December 10, 2021
 
-**Class Times:** Monday and Wednesday at 2:45–5:30pm (13 class sessions
+**Class Times:** Monday, Wednesday, & Friday 3:30 PM – 5:20 PM
 
 | Class | Date | Pacing Recommendations (Complete all lessons up to - ) |
 | :---: | :--: | :-----: |
