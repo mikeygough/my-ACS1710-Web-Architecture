@@ -86,26 +86,27 @@ This course has been broken down into 5 modules for students to approach at thei
 
 ## Schedule
 
-**Course Dates:** October 18 – December 10, 2021
+**Course Dates:** October 20 – December 9, 2022
 
-**Class Times:** Monday, Wednesday, & Friday 3:30 PM – 5:20 PM
+**Class Times:** Tuesday, Thursday 9:30 AM – 12:15 PM
 
 | Class | Date | Pacing Recommendations (Complete all lessons up to - ) |
 | :---: | :--: | :-----: |
-| - | Mon, Mar 29 | [`GET` vs `POST`](https://www.notion.so/makeschool/GET-vs-POST-10a1f44eb63141ebafe614960ba9a310)|
-|  1 | Wed, Mar 31 | **No Class - Cesar Chavez** |
-|  2 | Mon, Apr 5 | Finished Module 1 Assignment  |
-|  3 | Wed, Apr 7 | [Conditional Rendering with Templates](https://www.notion.so/makeschool/Conditional-Rendering-with-Templates-1d02a420605b4ecc9e999e9f9acdd03d)|
-|  4 | Mon, Apr 12 | Finished Module 2 Assignment |
-|  5 | Wed, Apr 14 | **Finished Quiz 1 (HARD DEADLINE - CLOSES END OF WEEK)** |
-|  6 | Wed, Apr 19 | [Working with JSON Objects](https://www.notion.so/makeschool/Working-with-JSON-Objects-f95e153725f042a69bd06224f116d8b2) |
-|  7 | Wed, Apr 21 | Finished Module 3 Assignment |
-|  8 | Mon, Apr 26 | **Finished Quiz 2 (HARD DEADLINE - CLOSES END OF WEEK)** |
-|  9 | Wed, Apr 28  | [Creating and Managing Environment Variables with `dotenv`](https://www.notion.so/makeschool/Creating-and-Managing-Environment-Variables-with-dotenv-ddb6aa5630fe464c884cfc1a75af9c2f) |
-| 10 | Mon, May 3 | Finished Module 4 Assignment |
-| 11 | Wed, May 5  | [Connecting a Flask Server to MongoDB Cluster](https://www.notion.so/makeschool/Connecting-a-Flask-Server-to-MongoDB-Cluster-6385c238c38f433f9babc5e85fb67082) |
-| 12 | Mon, May 10  | Finished Module 5 Assignment |
-| 13 | Wed, May 12  | **Finished Quiz 3 (Cumulative)** |
+| 1 | Thu, Oct 20 | [`GET` vs `POST`](https://www.notion.so/makeschool/GET-vs-POST-10a1f44eb63141ebafe614960ba9a310)|
+|  2 | Tue, Oct 25 | Finished Module 1 Assignment  |
+|  3 | Thu, Oct 27 | [Conditional Rendering with Templates](https://www.notion.so/makeschool/Conditional-Rendering-with-Templates-1d02a420605b4ecc9e999e9f9acdd03d)|
+|  4 | Tue, Nov  1 | Finished Module 2 Assignment |
+|  5 | Thu, Nov  3 | **Finished Quiz 1 (HARD DEADLINE - CLOSES END OF WEEK)** |
+|  6 | Tue, Nov  8 | [Working with JSON Objects](https://www.notion.so/makeschool/Working-with-JSON-Objects-f95e153725f042a69bd06224f116d8b2) |
+|  7 | Thu, Nov 10 | Finished Module 3 Assignment |
+|  8 | Tue, Nov 15 | **Finished Quiz 2 (HARD DEADLINE - CLOSES END OF WEEK)** |
+|  9 | Thu, Nov 17  | [Creating and Managing Environment Variables with `dotenv`](https://www.notion.so/makeschool/Creating-and-Managing-Environment-Variables-with-dotenv-ddb6aa5630fe464c884cfc1a75af9c2f) |
+| 10 | Tue, Nov 22 | Finished Module 4 Assignment |
+| 11 | Thu, Nov 24 | [Connecting a Flask Server to MongoDB Cluster](https://www.notion.so/makeschool/Connecting-a-Flask-Server-to-MongoDB-Cluster-6385c238c38f433f9babc5e85fb67082) |
+| 12 | Tue, Nov 29  | Finished Module 5 Assignment |
+| 13 | Thu, Dec  1  | **Finished Quiz 3 (Cumulative)** |
+| 14 | Tue, Dec  6  | **Finished Quiz 3 (Cumulative)** |
+| 13 | Thu, Dec  8  | **Finished Quiz 3 (Cumulative)** |
 
 
 ## Assignments
