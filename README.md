@@ -129,7 +129,7 @@ Quizzes can be retaken once, with the final grade being the average of the two f
 
 | Topic | Pacing Date | Assignment |
 | :--: | :------------: | :----: |
-| 1 | Tue, Apr 6 | [Module 1 Assignment: Request/Response](Assignments/01-Request-Response) |
+| 1 | Tue, Apr 6 | [Module 1 Assignment: Request/Response](Assignments/01-Request-Response.md) |
 | 2 | Tue, Apr 13 | [Module 2 Assignment: Forms & Templates](Assignments/02-Forms-Templates.md) |
 | 3 | Thu, Apr 15 | [**Quiz 1**](Assessments/quiz-1-study-guide.md) |
 | 4 | Thu, Apr 22 | [Module 3 Assignment: More Forms](Assignments/03-More-Forms.md) |
