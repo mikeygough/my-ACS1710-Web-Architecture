@@ -47,13 +47,13 @@ This course has been broken down into 5 modules for students to approach at thei
 
 #### MODULE 1: [ Introduction to internet communication patterns, C.R.U.D, and servers](https://handsome-air-ad0.notion.site/MODULE-1-Intro-to-Flask-Forms-54dd4bdc06494f6f9fd44e73ae5fd907) 
 
-1. [Introduction to the Request/Response Cycle](https://www.notion.so/makeschool/Introduction-to-the-Request-Response-Cycle-b4f79a60f14044fe89e5765729c57534)
-2. [Setting up and Using Flask Servers](https://www.notion.so/makeschool/Setting-up-and-Using-Flask-Servers-676ae2ed51db414d8605265ab1dbf1cb)
-3. [Introduction to C.R.U.D](https://www.notion.so/makeschool/Introduction-to-C-R-U-D-6721ed692d5b4eaab2fa4a42b69c525e)
-4. [`GET` vs `POST`](https://www.notion.so/makeschool/GET-vs-POST-10a1f44eb63141ebafe614960ba9a310)
-5. [Working with Route Variables and Forms](https://www.notion.so/makeschool/Working-with-Route-Variables-and-Forms-989a154e9723449986ee188ee42b45d8)
-6. [Interacting with Form Data in Flask](https://www.notion.so/makeschool/Interacting-with-Form-Data-in-Flask-0961ad39ea924109bb478b25e6f98f48)
-7. [Understanding `**args` and `**kwargs`](https://www.notion.so/makeschool/Understanding-args-and-kwargs-77df2ff437dc4f0a9f57aa99610c6dcb)
+1. [Introduction to the Request/Response Cycle](https://handsome-air-ad0.notion.site/Introduction-to-the-Request-Response-Cycle-3458f6f619bd4e84b79f01a8731e6818)
+2. [Setting up and Using Flask Servers](https://handsome-air-ad0.notion.site/Setting-up-and-Using-Flask-Servers-757e541158ed4eefa71ebd350462bb8b)
+3. [Introduction to C.R.U.D](https://handsome-air-ad0.notion.site/Introduction-to-C-R-U-D-7de1dc81889e46f7a0c9220515276923)
+4. [`GET` vs `POST`](https://handsome-air-ad0.notion.site/GET-vs-POST-1537f91a237b46f69fd0f0cf5eef66e3)
+5. [Working with Route Variables and Forms](https://handsome-air-ad0.notion.site/Working-with-Route-Variables-and-Forms-b96cb82e882d43f580cef4dcf2ccda03)
+6. [Interacting with Form Data in Flask](https://handsome-air-ad0.notion.site/Interacting-with-Form-Data-in-Flask-954d1021433e460a8f17abee94fbe9c1)
+7. [Understanding `**args` and `**kwargs`](https://handsome-air-ad0.notion.site/Understanding-args-and-kwargs-b677fabf03d44b38952fde75f39efdd5)
 
 #### MODULE 2: [ Creating scalable web applications and templating](https://www.notion.so/makeschool/MODULE-2-Creating-scalable-web-applications-and-templating-f952b99874f44ed7a886609ec4ecbd6c)
 
