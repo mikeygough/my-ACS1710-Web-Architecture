@@ -137,7 +137,6 @@ Quizzes can be retaken once, with the final grade being the average of the two f
 | 6 | Tue, May 4 | [Module 4 Assignment: APIs](Assignments/03-APIs.md) |
 | 7 | Tue, May 11 | [Module 5: Databases](Assignments/04-Databases.md) |
 
-
 ## Class Recordings
 
 All class recordings will be available [here](https://drive.google.com/drive/folders/1v1sNRXbrF7VmKUxK0U-6V8CgXM4zwpvE?usp=sharing) no later than 24 hours after the class session. For privacy reasons, please do not share the recordings outside of the Make School student body.
@@ -146,7 +145,7 @@ All class recordings will be available [here](https://drive.google.com/drive/fol
 
 **To pass this course, you must**: 
 
-- Earn an average score of 2 on the [Course Learning Outcomes Rubric](https://make.sc/web1.1-rubric). Each section's score will be determined by your performance on that week's assignment. The last section's score will be determined by your adherence to deadlines, class participation, & completion of the readings.
+- Earn an average score of 2 on each of the assignment rubrics. Each section's score will be determined by your performance on that week's assignment. The last section's score will be determined by your adherence to deadlines, class participation, & completion of the readings.
 - Pass the 3 quizzes by earning an average score of >70%.
 - Abide by the Attendance Policy.
 
@@ -171,22 +170,22 @@ Here are some guidelines to follow in order to avoid plagiarism:
 1. If you are looking at an outside source for help, **close the window** containing the code before writing your own solution.
 1. Do not write down a line of code unless you **completely understand** how it works. (This is true even if the source you're referencing is the lesson slides/examples/etc!)
 1. If your code is still similar to an outside source or another student's, **provide attribution** by adding a comment to your code explaining where it was taken from.
-
+<!-- 
 We take academic honesty very seriously at Make School. The consequences for violating the policy are as follows:
 
 - You will be required to write a [Self-Reflection Letter](https://docs.google.com/document/d/140_PHfDh7gu33OZI_caxEtvNzAlAepjnGcbQcXZ-MRo/edit?usp=sharing) to reflect on how your actions affected others.
 - If this is your first offense, you may be permitted to redo the assignment for a reduced grade (at the instructor's discretion).
 - The incident will be added to your permanent record at Make School and you may be placed on a Participation Improvement Plan (PIP).
 
-For subsequent offenses, more serious consequences may be considered. For more information, please see [Make School's academic honesty policy](https://make.sc/academic-honesty-policy).
+For subsequent offenses, more serious consequences may be considered. For more information, please see [Make School's academic honesty policy](https://make.sc/academic-honesty-policy). -->
 
-## Information Resources
+<!-- ## Information Resources
 
 Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
 
-- [make.sc/library](http://make.sc/library)
+- [make.sc/library](http://make.sc/library) -->
 
-## Make School Course Policies
+<!-- ## Make School Course Policies
 
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
@@ -196,4 +195,4 @@ Any additional resources you may need (online books, etc.) can be found here. Yo
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
 - [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
-- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
+- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students -->
