@@ -45,7 +45,7 @@ This course has been broken down into 5 modules for students to approach at thei
 
 ##### Although this course has self-pacing elements--attendance is still a requirement! We will be doing activites, checking-in, and learning as a class!
 
-#### MODULE 1: [ Introduction to internet communication patterns, C.R.U.D, and servers](https://www.notion.so/makeschool/MODULE-1-Introduction-to-internet-communication-patterns-C-R-U-D-and-servers-7238735fb1ec46a1af69c9585a87d34d) 
+#### MODULE 1: [ Introduction to internet communication patterns, C.R.U.D, and servers](https://handsome-air-ad0.notion.site/MODULE-1-Intro-to-Flask-Forms-54dd4bdc06494f6f9fd44e73ae5fd907) 
 
 1. [Introduction to the Request/Response Cycle](https://www.notion.so/makeschool/Introduction-to-the-Request-Response-Cycle-b4f79a60f14044fe89e5765729c57534)
 2. [Setting up and Using Flask Servers](https://www.notion.so/makeschool/Setting-up-and-Using-Flask-Servers-676ae2ed51db414d8605265ab1dbf1cb)
