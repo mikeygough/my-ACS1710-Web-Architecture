@@ -102,10 +102,10 @@ This course has been broken down into 5 modules for students to approach at thei
 |  8 | Tue, Nov 15 | **Finished Quiz 2 (HARD DEADLINE - CLOSES END OF WEEK)** |
 |  9 | Thu, Nov 17  | [Creating and Managing Environment Variables with `dotenv`](https://www.notion.so/makeschool/Creating-and-Managing-Environment-Variables-with-dotenv-ddb6aa5630fe464c884cfc1a75af9c2f) |
 | 10 | Tue, Nov 22 | Finished Module 4 Assignment |
-| 11 | Thu, Nov 24 | [Connecting a Flask Server to MongoDB Cluster](https://www.notion.so/makeschool/Connecting-a-Flask-Server-to-MongoDB-Cluster-6385c238c38f433f9babc5e85fb67082) |
-| 12 | Tue, Nov 29  | Finished Module 5 Assignment |
+| 11 | Thu, Nov 24 | **Thanks Giving Holiday** |
+| 12 | Tue, Nov 29  | [Connecting a Flask Server to MongoDB Cluster](https://www.notion.so/makeschool/Connecting-a-Flask-Server-to-MongoDB-Cluster-6385c238c38f433f9babc5e85fb67082) |
 | 13 | Thu, Dec  1  | **Finished Quiz 3 (Cumulative)** |
-| 14 | Tue, Dec  6  | **Finished Quiz 3 (Cumulative)** |
+| 14 | Tue, Dec  6  | Finished Module 5 Assignment |
 | 13 | Thu, Dec  8  | **Finished Quiz 3 (Cumulative)** |
 
 
