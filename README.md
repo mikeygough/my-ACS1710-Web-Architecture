@@ -129,13 +129,13 @@ Quizzes can be retaken once, with the final grade being the average of the two f
 
 | Topic | Pacing Date | Assignment |
 | :--: | :------------: | :----: |
-| 1 | Tue, Apr 6 | [Module 1 Assignment: Request/Response](Assignments/01-Request-Response.md) |
-| 2 | Tue, Apr 13 | [Module 2 Assignment: Forms & Templates](Assignments/02-Forms-Templates.md) |
-| 3 | Thu, Apr 15 | [**Quiz 1**](Assessments/quiz-1-study-guide.md) |
-| 4 | Thu, Apr 22 | [Module 3 Assignment: More Forms](Assignments/03-More-Forms.md) |
-| 5 | Tue, Feb 16 | [**Quiz 2**](Assessments/quiz-2-study-guide.md) |
-| 6 | Tue, May 4 | [Module 4 Assignment: APIs](Assignments/03-APIs.md) |
-| 7 | Tue, May 11 | [Module 5: Databases](Assignments/04-Databases.md) |
+| 1 | Tue, Oct 25 | [Module 1 Assignment: Request/Response](Assignments/01-Request-Response.md) |
+| 2 | Tue, Nov  1 | [Module 2 Assignment: Forms & Templates](Assignments/02-Forms-Templates.md) |
+| 3 | Thu, Nov  3 | [**Quiz 1**](Assessments/quiz-1-study-guide.md) |
+| 4 | Thu, Nov 10 | [Module 3 Assignment: More Forms](Assignments/03-More-Forms.md) |
+| 5 | Tue, Nov 15 | [**Quiz 2**](Assessments/quiz-2-study-guide.md) |
+| 6 | Thu, Dec  1 | [Module 4 Assignment: APIs](Assignments/03-APIs.md) |
+| 7 | Thu, Dec  8 | [Module 5: Databases](Assignments/04-Databases.md) |
 
 ## Class Recordings
 
