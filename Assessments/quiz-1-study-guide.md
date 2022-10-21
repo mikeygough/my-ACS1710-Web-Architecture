@@ -110,7 +110,7 @@ You have the following on your to-do list:
 No tasks for now!
 ```
 
-Hover below for answer & explanation!
+<!-- Hover below for answer & explanation!
 
 <div class="hover-reveal">
 Here is the completed code:
@@ -130,3 +130,4 @@ No tasks for now!
 
 We use the `{% if %}` block to show a block of HTML conditionally, if there is at least one task. Then, to show a bullet point for each task, use the `{% for %}` block. We are **iterating over** the `tasks` variable which was passed in from the route, and creating the `task_item` loop variable which we can use to display each task.
 </div>
+ -->
