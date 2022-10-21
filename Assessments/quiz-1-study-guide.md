@@ -35,13 +35,6 @@ If the user searches for “Spongebob” in the category “Television”, **wha
 
 `https://mysite.com/_________?_______________________`
 
-Hover below for answer & explanation!
-
-<div class="hover-reveal">
-The URL the user will be sent to is:
-
-`https://mysite.com/search?search_query=Spongebob&category=tv`
-
 For the search query, the key is determined by the `name=` property of the input element (`search_query`), and the value is determined by what the user types (`Spongebob`), for a key-value pair of `search_query=Spongebob`.
 
 For the category, since the user doesn't type anything, the value is determined by the `value=` property of the select element, for a key-value pair of `category=tv`.
