@@ -62,7 +62,7 @@ def order_page():
 
 **What should go in place of TODO 1 and TODO 2?**
 
-Hover below for answer & explanation!
+<!-- Hover below for answer & explanation!
 
 <div class="hover-reveal">
 
@@ -75,7 +75,7 @@ And **TODO 2** should be completed as:
 `category = request.args.get('category')`
 
 Remember to look at the `name=` property of each form element to find the key to use to retrieve each of these values!
-</div>
+</div> -->
 
 ### Question 2: Templates
 
