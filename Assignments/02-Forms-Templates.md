@@ -187,6 +187,22 @@ $ python3 test_app.py TestApp.test_froyo
 
 To see what tests are available to run, open the `test_app.py` file in your starter code and take a look!
 
+If the commands above don't work try: 
+
+```bash
+pip3 install pytest
+```
+
+and 
+
+```bash
+pytest
+```
+
+If that doesn't work try read this and see if it solves any issues: https://bobbyhadz.com/blog/python-no-module-named-pytest
+
+
+
 ## Submission
 
 When you're ready to submit your work, make sure you push all of your changes to GitHub:
