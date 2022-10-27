@@ -22,7 +22,7 @@ Scoring for this project is as follows:
 
 If you haven't yet, create a folder to contain your work for this course. If you put it in the `/dev/courses` folder, then the full path would be something like `/dev/courses/web1.1`.
 
-In a terminal window, navigate to your newly created folder and clone the [starter code](https://github.com/Make-School-Labs/WEB-1.1-Homework-2-Starter):
+In a terminal window, navigate to your newly created folder and clone the [starter code](https://github.com/Tech-at-DU/ACS-1710-Homework-2-Starter):
 
 ```
 $ git clone git@github.com:Make-School-Labs/WEB-1.1-Homework-2-Starter.git Homework-2-Forms
