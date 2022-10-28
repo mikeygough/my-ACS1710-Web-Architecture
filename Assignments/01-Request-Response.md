@@ -25,10 +25,7 @@ $ git clone git@github.com:Make-School-Labs/WEB-1.1-Homework-1-Starter.git Homew
 
 Next, go to [GitHub.com](https://github.com) and create a new repository for your project. **IMPORTANT: Make sure the box for "Initialize with a README" is NOT checked**. Then, run the following commands to push your starter code to GitHub:
 
-```
-$ git remote set-url origin git@github.com:YOUR_USERNAME/YOUR_REPO_NAME.git
-$ git push -u origin master
-```
+Download the start code from github and intialize your own Github repo. 
 
 Refresh the page in your newly-created GitHub repo to make sure your changes were successfully pushed.
 
