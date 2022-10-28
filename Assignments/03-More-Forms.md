@@ -23,8 +23,6 @@ If you haven't yet, create a folder to contain your work for this course. If you
 
 Download the [starter code](https://github.com/Tech-at-DU/ACS-1710-Homework-3-Forms-Starter) and initialize your own GitHub repo in that directory. 
 
-Next, go to [GitHub.com](https://github.com) and create a new repository for your project. **IMPORTANT: Make sure the box for "Initialize with a README" is NOT checked**. 
-
 Refresh the page in your newly-created GitHub repo to make sure your changes were successfully pushed.
 
 Finally, for this assignment, you'll need to install the Pillow and Requests libraries:
