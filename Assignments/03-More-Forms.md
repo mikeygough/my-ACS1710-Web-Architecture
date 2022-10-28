@@ -21,11 +21,7 @@ Scoring for this project is as follows:
 
 If you haven't yet, create a folder to contain your work for this course. If you put it in the `/dev/courses` folder, then the full path would be something like `/dev/courses/web1.1`.
 
-In a terminal window, navigate to your newly created folder and clone the [starter code](https://github.com/Make-School-Labs/WEB-1.1-Homework-3-Forms-Starter):
-
-```
-git clone git@github.com:Make-School-Labs/WEB-1.1-Homework-3-Forms-Starter.git Homework-3-More-Forms
-```
+Download the [starter code](https://github.com/Tech-at-DU/WEB-1.1-Homework-3-Forms-Starter) and initialize your own GitHub repo in that directory. 
 
 Next, go to [GitHub.com](https://github.com) and create a new repository for your project. **IMPORTANT: Make sure the box for "Initialize with a README" is NOT checked**. Then, run the following commands to push your starter code to GitHub:
 
