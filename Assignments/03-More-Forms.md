@@ -23,12 +23,7 @@ If you haven't yet, create a folder to contain your work for this course. If you
 
 Download the [starter code](https://github.com/Tech-at-DU/WEB-1.1-Homework-3-Forms-Starter) and initialize your own GitHub repo in that directory. 
 
-Next, go to [GitHub.com](https://github.com) and create a new repository for your project. **IMPORTANT: Make sure the box for "Initialize with a README" is NOT checked**. Then, run the following commands to push your starter code to GitHub:
-
-```
-git remote set-url origin git@github.com:YOUR_USERNAME/YOUR_REPO_NAME.git
-git push -u origin master
-```
+Next, go to [GitHub.com](https://github.com) and create a new repository for your project. **IMPORTANT: Make sure the box for "Initialize with a README" is NOT checked**. 
 
 Refresh the page in your newly-created GitHub repo to make sure your changes were successfully pushed.
 
