@@ -22,11 +22,9 @@ Scoring for this project is as follows:
 
 If you haven't yet, create a folder to contain your work for this course. If you put it in the `/dev/courses` folder, then the full path would be something like `/dev/courses/web1.1`.
 
-In a terminal window, navigate to your newly created folder and clone the [starter code](https://github.com/Make-School-Labs/WEB-1.1-Homework-2-Starter):
+Download the or copy the [starter code](https://github.com/Tech-at-DU/ACS-1710-Homework-2-Starter).
 
-```
-$ git clone git@github.com:Make-School-Labs/WEB-1.1-Homework-2-Starter.git Homework-2-Forms
-```
+Initialize your own GitHub repo in the folder with the starter code. 
 
 Next, go to [GitHub.com](https://github.com) and create a new repository for your project. **IMPORTANT: Make sure the box for "Initialize with a README" is NOT checked**. Then, run the following commands to push your starter code to GitHub:
 
@@ -186,6 +184,22 @@ $ python3 test_app.py TestApp.test_froyo
 ```
 
 To see what tests are available to run, open the `test_app.py` file in your starter code and take a look!
+
+If the commands above don't work try: 
+
+```bash
+pip3 install pytest
+```
+
+and 
+
+```bash
+pytest
+```
+
+If that doesn't work try read this and see if it solves any issues: https://bobbyhadz.com/blog/python-no-module-named-pytest
+
+
 
 ## Submission
 
