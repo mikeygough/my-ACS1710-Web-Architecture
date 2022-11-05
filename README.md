@@ -82,6 +82,7 @@ This course has been broken down into 5 modules for students to approach at thei
 2. [SQL vs NoSQL and Introduction to MongoDB](https://www.notion.so/makeschool/SQL-vs-NoSQL-and-Introduction-to-MongoDB-782a225705ad418d8c1af422c9c57083)
 3. [Connecting a Flask Server to MongoDB Cluster](https://www.notion.so/makeschool/Connecting-a-Flask-Server-to-MongoDB-Cluster-6385c238c38f433f9babc5e85fb67082)
 4. [Performing C.R.U.D Operations with PyMongo](https://www.notion.so/makeschool/Performing-C-R-U-D-Operations-with-PyMongo-0689895c65b24873b429423f14bacfa9)
+5. [Pymongo Todo List](Assignments/module-5-tutorial.md)
 
 
 ## Schedule
@@ -136,6 +137,8 @@ Quizzes can be retaken once, with the final grade being the average of the two f
 | 5 | Tue, Nov 15 | [**Quiz 2**](Assessments/quiz-2-study-guide.md) |
 | 6 | Thu, Dec  1 | [Module 4 Assignment: APIs](Assignments/03-APIs.md) |
 | 7 | Thu, Dec  8 | [Module 5: Databases](Assignments/04-Databases.md) |
+
+5. [Pymongo Todo List](Assignments/module-5-tutorial.md)
 
 ## Class Recordings
 
