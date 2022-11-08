@@ -25,7 +25,7 @@ Download the [starter code](https://github.com/Tech-at-DU/ACS-1710-Homework-3-Fo
 
 Refresh the page in your newly-created GitHub repo to make sure your changes were successfully pushed.
 
-Download the starter code and run: 
+Run the following in your project directory to install dependencies: 
 
 ```
 pip install -r requirements.txt
