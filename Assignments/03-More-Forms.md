@@ -28,7 +28,7 @@ Refresh the page in your newly-created GitHub repo to make sure your changes wer
 Run the following in your project directory to install dependencies: 
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Finally, for this assignment, you'll need to install the Pillow and Requests libraries:
