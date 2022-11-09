@@ -36,6 +36,7 @@ Finally, for this assignment, you'll need to install the Pillow and Requests lib
 ```
 pip3 install pillow
 pip3 install requests
+pip3 install flask
 ```
 
 ## Instructions
