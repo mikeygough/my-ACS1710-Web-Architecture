@@ -134,7 +134,7 @@ Quizzes can be retaken once, with the final grade being the average of the two f
 | 2 | Tue, Nov  1 | [Module 2 Assignment: Forms & Templates](Assignments/02-Forms-Templates.md) |
 | 3 | Thu, Nov  3 | [**Quiz 1**](Assessments/quiz-1-study-guide.md) |
 | 4 | Thu, Nov 10 | [Module 3 Assignment: More Forms](Assignments/03-More-Forms.md) |
-| 5 | Tue, Nov 15 | [**Quiz 2**](Assessments/quiz-2-study-guide.md) |
+| 5 | Tue, Nov 15 | [**Quiz 2**](Assessments/quiz-2.md) |
 | 6 | Thu, Dec  1 | [Module 4 Assignment: APIs](Assignments/03-APIs.md) |
 | 7 | Thu, Dec  8 | [Module 5: Databases](Assignments/04-Databases.md) |
 
