@@ -25,11 +25,18 @@ Download the [starter code](https://github.com/Tech-at-DU/ACS-1710-Homework-3-Fo
 
 Refresh the page in your newly-created GitHub repo to make sure your changes were successfully pushed.
 
+Run the following in your project directory to install dependencies: 
+
+```
+pip3 install -r requirements.txt
+```
+
 Finally, for this assignment, you'll need to install the Pillow and Requests libraries:
 
 ```
 pip3 install pillow
 pip3 install requests
+pip3 install flask
 ```
 
 ## Instructions

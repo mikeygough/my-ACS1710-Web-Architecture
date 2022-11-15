@@ -69,7 +69,7 @@ This course has been broken down into 5 modules for students to approach at thei
 2. [C.R.U.D in API's](https://www.notion.so/makeschool/C-R-U-D-in-API-s-d0478a7c928946b881fa62af058b22cb)
 3. [Working with JSON Objects](https://www.notion.so/makeschool/Working-with-JSON-Objects-f95e153725f042a69bd06224f116d8b2)
 4. [Testing API Routes with Postman](https://www.notion.so/makeschool/Testing-API-Routes-with-Postman-2c3abe212a424d3682bd94fc3724e180)
-5. [Using the Requests Library to Generate User Requests](https://www.notion.so/makeschool/Using-the-Requests-Library-to-Generate-User-Requests-3c5c50b0fc374eb88708bb312a9a1def)
+5. [Using the Requests Library to Generate User Requests](https://www.notion.so/makeschool/Using-the-Requests-Library-to-Generate-User-Requests-3c5c50b0fc374eb88708bb312a9a1def) - Note! When following the example here you will need to run your server (main.py) in one terminal window and run the firstrequest.py example in a second terminal! 
 
 
 #### MODULE 4: [ Developing secure and distributable web applications](https://www.notion.so/makeschool/MODULE-4-Developing-secure-and-distributable-web-applications-bcc343ed1483406e8bb928ebf223e19c)
