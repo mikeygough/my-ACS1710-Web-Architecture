@@ -1,4 +1,4 @@
-# WEB 1.1 (Web Architecture)
+# ACS 1710 Web Architecture
 
 <span class="refresh-instructions">This syllabus is a living document! Hold down the `SHIFT` key and press `Refresh` to get the latest version.</span>
 
