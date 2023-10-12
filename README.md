@@ -16,12 +16,6 @@ This course covers language-independent web server frameworks and patterns in fu
 
 1. ACS 1700 (Web Foundations)
 
-## Course Specifics
-
-**Course Delivery**: online | 7 weeks | 13 sessions
-
-**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
-
 ## Learning Outcomes
 
 By the end of the course, you will be able to ...
