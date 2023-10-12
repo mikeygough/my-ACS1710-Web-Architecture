@@ -14,7 +14,7 @@ This course covers language-independent web server frameworks and patterns in fu
 
 ## Prerequisites:
 
-1. WEB 1.0 (Web Foundations)
+1. ACS 1700 (Web Foundations)
 
 ## Course Specifics
 
