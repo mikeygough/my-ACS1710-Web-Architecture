@@ -24,7 +24,7 @@ The four primary operations that a web application must be able to perform fall 
 - update - modifying a currently existing data point to a new value
 - delete - removing a set of data or element of data from a set
 
-![module-1-lesson-3-2.png](module-1-lesson-3-2.png)
+![Untitled.png](Untitled.png)
 
 These operations form the basis of an application as it covers the range of ways a user can interact with a website.
 
