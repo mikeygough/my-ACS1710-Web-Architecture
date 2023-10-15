@@ -28,7 +28,7 @@ https://youtu.be/okQzZJD-lbg
 
 Send your instructor a screenshot via Slack of your functioning web server! Your screenshot should look something like this:
 
-![module-1-lesson-2-1.png](module-1-lesson-2-1.png)
+![Screen_Shot_2021-01-15_at_5.26.26_PM.png](Screen_Shot_2021-01-15_at_5.26.26_PM.png)
 
 ## Written Companion 🗒
 
