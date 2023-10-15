@@ -20,9 +20,9 @@ Diving deeper into Python's Decorator @ syntax
 
 https://youtu.be/xLy7D3CaHps
 
-Diving deeper into Python's __name__ keyword
+Diving deeper into Python's `__name__` keyword
 
-Video coming soon
+https://youtu.be/okQzZJD-lbg
 
 ## Exercises 💪
 
