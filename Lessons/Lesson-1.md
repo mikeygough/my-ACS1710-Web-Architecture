@@ -34,7 +34,7 @@ Online communications follow this same pattern! We call the machine starting the
 
 Clients always start the communication by creating a request and sending it to the server.
 
-![module-1-lesson-1.png]()
+![request-response.png](request-response.png)
 
 Clients can discover servers by their destination URL address in the same way that physical mail gets sent to a physical destination address (such as 555 Post Street, San Francisco, CA). We refer to this destination URL address as a route.
 
