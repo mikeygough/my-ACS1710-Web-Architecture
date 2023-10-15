@@ -29,7 +29,7 @@ Answer the review questions for Module 1 Section 5 on [Gradescope](http://grades
 - `request.args.get('inputNameAttribute')` for `GET` requests
 - `request.form.get('inputNameAttribute')` for `POST` requests
 
-Do not be confused by the the naming of the request.form.get() method! A <form> can send information to any type of route. request.form.get() must be used to access <form> data in POST routes; no more no less. This can be quite confusing unfortunately, so just remember to use args.get() for GET requests and form.get() for POST requests.
+Do not be confused by the the naming of the `request.form.get()` method! A `<form>` can send information to any type of route. `request.form.get()` must be used to access `<form>` data in POST routes; no more no less. This can be quite confusing unfortunately, so just remember to use args.get() for GET requests and `form.get()` for POST requests.
 
 ```html
 <!-- a form tag with an action and method attribute added to it -->
@@ -42,4 +42,32 @@ Do not be confused by the the naming of the request.form.get() method! A <form> 
 
 Fig 1 (HTML) - the same <form> from the previous lesson repeated here to keep code consolidated
 
-Once a <form> sends information to the route specified in the action attribute, the route can access any `<input>` values using the name attribute of the <input> tag.
+Once a `<form>` sends information to the route specified in the action attribute, the route can access any `<input>` values using the name attribute of the `<input>` tag.
+
+```python
+# a route utilizing the `pizza_flavor` input tag data
+@app.route('/results', methods=['GET'])
+def simple_pizza_results():
+		# NOTE: request.args.get() must be used for GET requests
+    pizza_flavor = request.args.get('pizza_flavor')
+    return 'You ordered ' + pizza_flavor + ' pizza!'
+```
+
+*Fig 2 (Python) - a `GET` route utilizing `request.args.get()` to collect information from the `<input name="pizza_flavor">` tag*
+
+Changing the `method` attribute of the `<form>` tag to use `POST` would require using the `request.form.get()` approach.
+
+```python
+# the same route again but now with the POST method
+# NOTE: methods has been changed to use POST
+@app.route('/results', methods=['POST'])
+def simple_pizza_results():
+		# NOTE: request.forms.get() must be used for POST requests
+    pizza_flavor = request.form.get('pizza_flavor')
+    return 'You ordered ' + pizza_flavor + ' pizza!'
+```
+
+*Fig 3 (Python) - a `POST` route utilizing `request.form.get()` to collect information from the `<input name="pizza_flavor">` tag*
+
+- *Note: the `methods` parameter of `app.route` uses an array that can contain multiple `HTTP` methods*
+    - *ex: `methods=['GET', 'POST']`*
