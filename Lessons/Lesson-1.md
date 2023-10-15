@@ -42,7 +42,7 @@ Notice in Fig 1.1 that the client sends a request to the server via the server's
 
 The server always ends the communication by creating a response and returning it to the client.
 
-![module-1-lesson-1-2.png]()
+![module-1-lesson-1-2.png](module-1-lesson-1-2.png)
 
 Once the client receives the response from the server—communication ends and the client must make a new request to for further interactions. Every communication will follow this loop!
 
