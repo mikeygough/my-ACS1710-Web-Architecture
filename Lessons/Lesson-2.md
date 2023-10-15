@@ -18,7 +18,7 @@ https://youtu.be/PoHWcq1pLhM
 
 Diving deeper into Python's Decorator @ syntax
 
-video coming soon
+https://youtu.be/xLy7D3CaHps
 
 Diving deeper into Python's __name__ keyword
 
