@@ -14,7 +14,7 @@ By the end of this lesson, you should be able to...
 
 Building our first Flask server step-by-step video walkthrough
 
-[video coming soon](https://youtu.be/PoHWcq1pLhM)
+https://youtu.be/PoHWcq1pLhM
 
 Diving deeper into Python's Decorator @ syntax
 
