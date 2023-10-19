@@ -98,6 +98,5 @@ def simple_pizza_results():
 
 - *Note: in the above example, the `<form>` data was not utilized in any way! We'll look at how to do that in the next lesson.*
 
-- 
 
 
