@@ -11,8 +11,6 @@ By the end of this lesson, you should be able to...
 
 ## Videos 🎥
 
-[Video coming soon!](https://youtu.be/4LneOExUmeQ)
-
 https://youtu.be/2CYu4d0-YJk
 
 ## Exercises 💪
