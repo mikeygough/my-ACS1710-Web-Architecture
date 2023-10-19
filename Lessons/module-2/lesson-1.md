@@ -16,7 +16,7 @@ Vid 1 - Walking through templates and the render_template() function in Python
 
 https://youtu.be/fHhuLnDJ7N0
 
-Vid 2 - Using the context object to provide templates access to `<form>`` data
+Vid 2 - Using the context object to provide templates access to `<form>` data
 
 https://youtu.be/p6BqrImSjrY
 
