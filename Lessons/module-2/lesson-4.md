@@ -15,9 +15,9 @@ By the end of this lesson, you should be able to...
 
 </aside>
 
-# Exercises 💪
+<!-- # Exercises 💪
 
-Complete the exercise in [this repl.it](https://repl.it/team/WebArchitecture/Module-203JinjaLoops) and submit your work.
+Complete the exercise in [this repl.it](https://repl.it/team/WebArchitecture/Module-203JinjaLoops) and submit your work. -->
 
 # Written Companion 🗒
 
