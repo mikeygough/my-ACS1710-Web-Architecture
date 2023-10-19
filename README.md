@@ -81,20 +81,20 @@ This course has been broken down into 5 modules for students to approach at thei
 
 | Class | Date | Pacing Recommendations (Complete all lessons up to - ) |
 | :---: | :--: | :-----: |
-| 1 | Thu, Oct 19 | [`GET` vs `POST`](https://www.notion.so/makeschool/GET-vs-POST-10a1f44eb63141ebafe614960ba9a310)|
-|  2 | Tue, Oct 24 | Finished Module 1 Assignment  |
-|  3 | Thu, Oct 26 | [Conditional Rendering with Templates](https://www.notion.so/makeschool/Conditional-Rendering-with-Templates-1d02a420605b4ecc9e999e9f9acdd03d)|
-|  4 | Tue, Oct 31 | Finished Module 2 Assignment |
+|  1 | Thu, Oct 19 | [Module 1](Lessons/module-1/) |
+|  2 | Tue, Oct 24 | [Finished Module 1 Assignment](Assignments/01-Request-Response.md)  |
+|  3 | Thu, Oct 26 | [Module 2](Lessons/module-2/) |
+|  4 | Tue, Oct 31 | [Finished Module 2 Assignment](Assignments/02-Forms-Templates.md) |
 |  5 | Thu, Nov  2 | **Finished Quiz 1 (HARD DEADLINE - CLOSES END OF WEEK)** |
-|  6 | Tue, Nov  7 | [Working with JSON Objects](https://www.notion.so/makeschool/Working-with-JSON-Objects-f95e153725f042a69bd06224f116d8b2) |
-|  7 | Thu, Nov  9 | Finished Module 3 Assignment |
+|  6 | Tue, Nov  7 | [Module 3](Lessons/module-3/) |
+|  7 | Thu, Nov  9 | [Finished Module 3 Assignment](Assignments/03-More-Forms.md) |
 |  8 | Tue, Nov 14 | **Finished Quiz 2 (HARD DEADLINE - CLOSES END OF WEEK)** |
-|  9 | Thu, Nov 16  | [Creating and Managing Environment Variables with `dotenv`](https://www.notion.so/makeschool/Creating-and-Managing-Environment-Variables-with-dotenv-ddb6aa5630fe464c884cfc1a75af9c2f) |
-| 10 | Tue, Nov 21 | Finished Module 4 Assignment |
+|  9 | Thu, Nov 16 | [Module 4](Lessons/module-4/) |
+| 10 | Tue, Nov 21 | [Finished Module 4 Assignment](Assignments/03-APIs.md) |
 | 11 | Thu, Nov 23 | **Thanks Giving Holiday** |
-| 12 | Tue, Nov 28  | [Connecting a Flask Server to MongoDB Cluster](https://www.notion.so/makeschool/Connecting-a-Flask-Server-to-MongoDB-Cluster-6385c238c38f433f9babc5e85fb67082) |
+| 12 | Tue, Nov 28  | [Module 5](Lessons/module-5/) |
 | 13 | Thu, Nov 30  | **Finished Quiz 3 (Cumulative)** |
-| 14 | Tue, Dec  5  | Finished Module 5 Assignment |
+| 14 | Tue, Dec  5  | [Finished Module 5 Assignment](Assignments/04-Databases.md) |
 | 13 | Thu, Dec  7  | **Finished Quiz 3 (Cumulative)** |
 
 
