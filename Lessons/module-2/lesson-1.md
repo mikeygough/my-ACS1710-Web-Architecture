@@ -20,9 +20,9 @@ Vid 2 - Using the context object to provide templates access to `<form>`` data
 
 https://youtu.be/p6BqrImSjrY
 
-# Exercises 💪
+<!-- # Exercises 💪
 
-Complete the challenges in [this repl.it](https://repl.it/team/WebArchitecture/Module-201JinjaRefactor) and submit your work.
+Complete the challenges in [this repl.it](https://repl.it/team/WebArchitecture/Module-201JinjaRefactor) and submit your work. -->
 
 # Written Companion 🗒
 
