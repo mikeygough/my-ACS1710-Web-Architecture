@@ -15,9 +15,9 @@ Vid 1 - A walkthrough of using template inheritance to create reusable component
 
 https://youtu.be/H0als3BogTs
 
-# Exercises 💪
+<!-- # Exercises 💪
 
-Complete the challenge in [this repl.it](https://repl.it/team/WebArchitecture/Module-204JinjaInheritance) and submit your work.
+Complete the challenge in [this repl.it](https://repl.it/team/WebArchitecture/Module-204JinjaInheritance) and submit your work. -->
 
 # Written Companion 🗒
 
