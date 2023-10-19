@@ -19,9 +19,9 @@ Vid 1 - Generating different views via conditional statements in the Jinja2 temp
 
 https://youtu.be/QnY-WcDyE4k
 
-# Exercises 💪
+<!-- # Exercises 💪
 
-Complete the exercise in [this repl.it](https://repl.it/team/WebArchitecture/Module-202JinjaIfStatements) and submit your work.
+Complete the exercise in [this repl.it](https://repl.it/team/WebArchitecture/Module-202JinjaIfStatements) and submit your work. -->
 
 # Written Companion 🗒
 
