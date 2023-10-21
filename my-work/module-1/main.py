@@ -23,6 +23,21 @@ def profile(users_name):
 def displayGivenDate(month, day, year):
     return f"{month} / {day} / {year}"
 
+formData = f"""
+    <form action="" method="">
+        What's your favorite pizza flavor?
+        <input type="text" name="pizza_flavor">
+        <br>
+        What's your favorite crust type?
+        <input type="text" name="crust">
+        <input type="submit" value="submit pizza!">
+    </form>
+    """
+
+@app.route('/formExample')
+def firstForm():
+    return formData
+
 # turn on the server
 if __name__ == "__main__":
     app.run(debug=True, port=3000)
