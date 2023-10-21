@@ -38,3 +38,8 @@ Thumbs.db
 
 node_modules/
 package-lock.json
+
+config.py
+env/
+**/.DS_Store
+local-cdn/
