@@ -1,4 +1,4 @@
-# decorators make it easy to pass the results of a function to another function.
+l# decorators make it easy to pass the results of a function to another function.
 
 class Car:
     wheels = 4
