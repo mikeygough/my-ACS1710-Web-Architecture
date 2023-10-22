@@ -26,7 +26,7 @@ https://youtu.be/1E7DyY2hWmM
 
 Vid 3 - **kwargs (keyword arguments)
 
-https://youtu.be/SZTz33iOq00
+
 
 ## Exercises 💪
 
