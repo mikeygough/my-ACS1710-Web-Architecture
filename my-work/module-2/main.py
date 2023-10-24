@@ -8,7 +8,22 @@ app = Flask(__name__)
 # create some routes
 @app.route('/')
 def displayHomepage():
-    return "<h1>Welcome to your first website!</h1>"
+    return render_template('index.html')
+
+@app.route('/formExample')
+def firstForm():
+    return render_template('form.html')
+
+@app.route('/result', methods=['GET'])
+def simple_pizza_results():
+    
+    # a context object contains all of the needed form data for the template
+    context = {
+        'pizza_flavor': request.args.get('pizza_flavor'),
+        'crust': request.args.get('crust')
+    }
+    
+    return render_template('confirmation_page.html', **context)
 
 @app.route('/route1')
 def route1Info():
@@ -22,27 +37,6 @@ def profile(users_name):
 @app.route('/date/<month>/<day>/<year>')
 def displayGivenDate(month, day, year):
     return f"{month} / {day} / {year}"
-
-formData = f"""
-    <form action="/result" method="GET">
-        What's your favorite pizza flavor?
-        <input type="text" name="pizza_flavor">
-        <br>
-        What's your favorite crust type?
-        <input type="text" name="crust">
-        <input type="submit" value="submit pizza!">
-    </form>
-    """
-
-@app.route('/formExample')
-def firstForm():
-    return formData
-
-@app.route('/result', methods=['GET'])
-def simple_pizza_results():
-    pizza_flavor = request.args.get('pizza_flavor')
-    crust = request.args.get('crust')
-    return f"<h3>A {crust}-crust {pizza_flavor} pizza has been ordered!</h3>"
 
 # turn on the server
 if __name__ == "__main__":
