@@ -20,7 +20,8 @@ def simple_pizza_results():
     # a context object contains all of the needed form data for the template
     context = {
         'pizza_flavor': request.args.get('pizza_flavor'),
-        'crust': request.args.get('crust')
+        'crust': request.args.get('crust'),
+        'individual_toppings': ['mushrooms', 'olives', 'garlic']
     }
     
     return render_template('confirmation_page.html', **context)
