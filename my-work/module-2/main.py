@@ -8,7 +8,18 @@ app = Flask(__name__)
 # create some routes
 @app.route('/')
 def displayHomepage():
-    return render_template('index.html')
+    
+    shopping_cart = [
+        { "name": "Apple", "qty": 3 },
+        { "name": "Orange", "qty": 2 },
+    ]    
+    
+    context = {
+        'mood': 10,
+        'shopping_cart': shopping_cart    
+    }
+    
+    return render_template('index.html', **context)
 
 @app.route('/formExample')
 def firstForm():
@@ -21,7 +32,8 @@ def simple_pizza_results():
     context = {
         'pizza_flavor': request.args.get('pizza_flavor'),
         'crust': request.args.get('crust'),
-        'individual_toppings': ['mushrooms', 'olives', 'garlic']
+        'individual_toppings': ['mushrooms', 'olives', 'garlic'],
+        'iPhone': iPhone
     }
     
     return render_template('confirmation_page.html', **context)
