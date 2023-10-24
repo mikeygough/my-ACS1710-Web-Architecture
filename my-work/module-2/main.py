@@ -32,8 +32,7 @@ def simple_pizza_results():
     context = {
         'pizza_flavor': request.args.get('pizza_flavor'),
         'crust': request.args.get('crust'),
-        'individual_toppings': ['mushrooms', 'olives', 'garlic'],
-        'iPhone': iPhone
+        'individual_toppings': ['mushrooms', 'olives', 'garlic']
     }
     
     return render_template('confirmation_page.html', **context)

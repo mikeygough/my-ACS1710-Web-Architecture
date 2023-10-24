@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      {% block title %}{% endblock %}
+    </title>
+  </head>
+
+  <body>
+    <header>
+      <h1>ACS 1710 Web Architecture</h1>
+    </header>
+
+    <main>{% block content %}{% endblock %}</main>
+
+    <footer>
+      <p>Footer</p>
+    </footer>
+  </body>
+</html>
