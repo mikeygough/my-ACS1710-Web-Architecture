@@ -1,5 +1,6 @@
 # import flask
 from flask import Flask, request, render_template
+import json
 
 # create an instance of the flask server
 # assign the root directory
@@ -49,6 +50,17 @@ def profile(users_name):
 @app.route('/date/<month>/<day>/<year>')
 def displayGivenDate(month, day, year):
     return f"{month} / {day} / {year}"
+
+with open('exampleObj.json') as example_obj_file:
+    print("raw file printed = ", example_obj_file)
+    # turn json into python dict
+    jsonData = json.load(example_obj_file)
+    print("just the JSON data printed = ", jsonData)
+
+# json object example
+@app.route('/jsonExample', methods=['GET'])
+def jsonRoute():
+    return jsonData
 
 # turn on the server
 if __name__ == "__main__":
