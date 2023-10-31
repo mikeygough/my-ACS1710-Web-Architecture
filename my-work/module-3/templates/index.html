@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block title %}
+
+  Pizza Delivery Splash Page
+  
+{% endblock %}
+
+{% block content %}
+
+  <h1>Welcome to your first website from the template folder!</h1>
+
+  {% if mood >= 0 and mood <= 4 %}
+    <p>☹️</p>
+  {% elif mood > 4 and mood <= 7 %}
+    <p>😐</p>
+  {% elif mood > 7 and mood <= 10 %}
+    <p>😃</p>
+  {% endif %}
+
+  <form style="white-space: nowrap;">
+    {% for item in shopping_cart %}
+    <label for="{{ item.name }}">{{ item.name }}</label>
+    <input type="number" id="{{ item.name }}" value={{ item.qty }} style="width: 5em">
+    {% endfor %}
+  </form>
+
+{% endblock %}
+
